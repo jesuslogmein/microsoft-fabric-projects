@@ -37,4 +37,5 @@ El objetivo de este repositorio es explorar la **eliminación de silos de datos*
 ---
 
 ## 👤 Contacto
-¿Te interesa saber más sobre alguna implementación específica
+¿Te interesa saber más sobre alguna implementación específica?
+
